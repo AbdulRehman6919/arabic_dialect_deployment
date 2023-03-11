@@ -10,3 +10,4 @@ Unidecode
 PyYAML==5.1
 codernitydb3
 mishkal
+numba==0.56.4
