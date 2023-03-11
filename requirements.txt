@@ -3,7 +3,8 @@ jiwer
 ffmpeg-python
 transformers
 datasets
-torchaudio
+torch==1.13.1
+torchaudio==0.13.1
 arabic_pronounce
 pypinyin
 Unidecode
